@@ -1,0 +1,16 @@
+# Your personal files: never commit these
+profile.json
+credentials.json
+gmail_token.json
+.env
+cv/*.pdf
+data/faculty.json
+data/topics.json
+data/email_templates.json
+data/sent_log.json
+data/contacted_before.json
+send_log.txt
+
+.venv/
+__pycache__/
+.DS_Store

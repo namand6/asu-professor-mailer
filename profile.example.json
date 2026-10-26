@@ -1,0 +1,38 @@
+{
+  "_comment": "Copy to profile.json and fill in. profile.json is gitignored, so your details stay on your computer.",
+  "name": "Your Name",
+  "email": "yourasurite@asu.edu",
+  "linkedin": "https://linkedin.com/in/your-profile",
+  "portfolio": "https://your-portfolio.example.com",
+  "program": "MS Computer Science",
+  "short_title": "MS CS student",
+  "university": "Arizona State University",
+  "university_short": "ASU",
+  "gpa": "3.8/4",
+  "when": "this semester or in Spring 2027",
+  "term_label": "Spring 2027",
+
+  "cv": {
+    "research": "cv/CV_Research.pdf",
+    "teaching": "cv/CV_Teaching.pdf",
+    "data": "cv/CV_Data.pdf"
+  },
+  "data_cv_departments": ["Department of Information Systems"],
+
+  "extras": "I'm looking for paid roles but am also open to project work, and I'm happy to take part in any paid research studies your group runs.",
+
+  "background": {
+    "default": "Before my MS I worked as a software engineer, and I program in Python, Java, C++ and SQL.",
+    "ai_ml": "One or two sentences on your ML projects, with a number if you have one (accuracy, users, speed-up).",
+    "ai": "Your LLM / agents / NLP work.",
+    "data": "Your data engineering or analytics work.",
+    "databases": "Your SQL / database work.",
+    "security": "Your security-related work.",
+    "networks": "Your distributed systems / networking work.",
+    "software_eng": "Your software engineering work.",
+    "robotics": "Why you fit a robotics group.",
+    "vision": "Your computer vision work.",
+    "hci": "Your HCI / user-facing work.",
+    "theory": "Your algorithms / theory background."
+  }
+}

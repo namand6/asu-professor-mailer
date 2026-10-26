@@ -1,0 +1,6 @@
+{
+  "_comment": "Copy to topics.json. One short phrase per professor email, used as 'Your work on <topic> caught my attention'. \"\" = talk about their courses instead (good for lecturers). \"skip\" = don't email them. Professors missing from this file are skipped.",
+  "professor.one@asu.edu": "robot perception and vision-and-language models",
+  "professor.two@asu.edu": "",
+  "professor.three@asu.edu": "skip"
+}
